@@ -2,7 +2,7 @@
 #### Backend Software Engineer
 ![Backend Software Engineer](https://pbs.twimg.com/profile_banners/1607509440382607361/1684926245/600x200)
 
-### Beginner in Tech | Java | Spring Boot | Hibernate | JSP | Backend Developer
+### Tech Enthusiast | Java | Spring Boot | Hibernate | JSP | Backend Developer
 
 Hello there! Thanks for visiting my GitHub profile. I'm a beginner in the exciting world of technology, focusing on backend development. Here's a glimpse of my current tech stack:
 
