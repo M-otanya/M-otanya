@@ -1,30 +1,18 @@
-### Hi there 👋, I'm Motanya Dennis
-#### Backend Software Engineer
-![Backend Software Engineer](https://pbs.twimg.com/profile_banners/1607509440382607361/1684926245/600x200)
+##👋 Welcome to My GitHub
+#About Me
+Hi there! I'm Emma, an AWS Certified Cloud Practitioner with a solid foundation in backend development using Java and Spring Boot. My focus is on building scalable, efficient, and cloud-optimized applications that leverage modern frameworks and cloud services.
 
-### Tech Enthusiast | Java | Spring Boot | Hibernate | JSP | Backend Developer
+#Backend Development Skills
+Java: Proficient in developing robust, high-performance backend systems using Java. Experienced in object-oriented programming, data structures, algorithms, and software design patterns.
+Spring Boot: Expertise in building RESTful APIs, microservices, and enterprise-grade backend systems using Spring Boot. I specialize in creating lightweight, scalable, and easily maintainable applications with advanced features like Spring Security, Spring Data JPA, and more.
+Database Integration: Skilled in working with relational databases like MySQL and PostgreSQL, as well as NoSQL databases like MongoDB. Strong understanding of database schema design, query optimization, and transaction management.
+API Development: Expertise in developing secure, efficient, and well-documented REST APIs. Familiar with API versioning, rate limiting, and pagination strategies.
+#Cloud Practitioner Expertise
+As an AWS Certified Cloud Practitioner, I ensure that my backend solutions are designed with cloud scalability, cost-efficiency, and security in mind. Here’s how I integrate cloud services into my backend projects:
 
-Hello there! Thanks for visiting my GitHub profile. I'm a beginner in the exciting world of technology, focusing on backend development. Here's a glimpse of my current tech stack:
-
-- **Java**: I'm passionate about Java and its versatility in building robust and scalable applications. I'm continuously honing my Java skills to develop efficient backend solutions.
-
-- **Spring Boot**: Spring Boot has captured my attention with its simplicity and rapid development capabilities. I'm diving deep into its features to create RESTful APIs and microservices, enabling seamless communication between frontend and backend systems.
-
-- **Spring Framework**: I'm exploring the powerful features of the Spring Framework to build enterprise-grade applications. Dependency injection, AOP, and other components of Spring help me create modular and maintainable backend solutions.
-
-- **Hibernate JPA**: With Hibernate JPA, I'm able to work with databases effectively and efficiently. It simplifies database operations and enables seamless integration between the application and the data layer.
-
-- **JSP**: As I venture into web development, I've been working with JSP (JavaServer Pages) to build dynamic web pages and deliver engaging user experiences. Integrating Java code with HTML allows me to personalize and customize web applications.
-
-- **RESTful API**: I'm well-versed in designing and implementing RESTful APIs, which provide a standardized and scalable approach to backend development. I enjoy creating APIs that follow best practices and adhere to industry standards.
-
-I'm passionate about backend development and continuously expanding my knowledge in these technologies. I'm eager to collaborate on exciting projects and contribute to the development community. Feel free to explore my repositories and reach out if you'd like to connect or collaborate. Let's create amazing backend solutions together! 🌟
-
-Skills: JAVA /SPRING BOOT /SPRING FRAMEWORK/SPRING MVC/ SPRING SECURITY/ HIBERNATE
-
-- 🔭 I’m currently working on improving my skill set 
-- 🌱 I’m currently learning java, spring framwork,Hibernate JPA,JSP,RESTful APIs 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dennis-motanya-455210207//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/motanya_dennis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/MOTANYA_BRAVO?utm_medium=android_app&utm_source=share)  
+AWS Lambda: Leveraging AWS Lambda for serverless backend services and event-driven architectures.
+Amazon RDS: Using Amazon Relational Database Service (RDS) for high availability and auto-scaling databases.
+Amazon S3: Efficient storage and retrieval of data using S3, with lifecycle policies and encryption for security.
+Amazon API Gateway: Building scalable, secure APIs with API Gateway, integrated with AWS Lambda and backend microservices.
+AWS Security: Applying best practices for IAM, encryption, and monitoring with services like AWS CloudWatch and AWS CloudTrail.
 
