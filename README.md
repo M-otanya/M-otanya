@@ -11,7 +11,8 @@ Spring Boot: Expertise in building RESTful APIs, microservices, and enterprise-g
 Database Integration: Skilled in working with relational databases like MySQL and PostgreSQL, as well as NoSQL databases like MongoDB. Strong understanding of database schema design, query optimization, and transaction management.
 API Development: Expertise in developing secure, efficient, and well-documented REST APIs. Familiar with API versioning, rate limiting, and pagination strategies.
 
-#Cloud Practitioner Expertise
+Cloud Practitioner Expertise
+
 As an AWS Certified Cloud Practitioner, I ensure that my backend solutions are designed with cloud scalability, cost-efficiency, and security in mind. Here’s how I integrate cloud services into my backend projects:
 
 AWS Lambda: Leveraging AWS Lambda for serverless backend services and event-driven architectures.
