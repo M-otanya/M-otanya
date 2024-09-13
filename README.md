@@ -1,6 +1,6 @@
 👋 Welcome to My GitHub
 
-#About Me
+About Me
 
 Hi there! I'm Dennis, an AWS Certified Cloud Practitioner with a solid foundation in backend development using Java and Spring Boot. My focus is on building scalable, efficient, and cloud-optimized applications that leverage modern frameworks and cloud services.
 
