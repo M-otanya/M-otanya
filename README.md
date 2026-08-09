@@ -2,7 +2,7 @@
 
 About Me
 
-Hi there! I'm Dennis, an AWS Certified Cloud Practitioner with a solid foundation in backend development using Java and Spring Boot. My focus is on building scalable, efficient, and cloud-optimized applications that leverage modern frameworks and cloud services.
+Hi there! I'm Dennis, an AWS Certified Cloud Engineer with a solid foundation in backend development using Java and Spring Boot. My focus is on building scalable, efficient, and cloud-optimized applications that leverage modern frameworks and cloud services.
 
 Backend Development Skills
 
@@ -13,7 +13,7 @@ API Development: Expertise in developing secure, efficient, and well-documented 
 
 Cloud Practitioner Expertise
 
-As an AWS Certified Cloud Practitioner, I ensure that my backend solutions are designed with cloud scalability, cost-efficiency, and security in mind. Here’s how I integrate cloud services into my backend projects:
+As an AWS Certified Cloud Engineer, I ensure that my backend solutions are designed with cloud scalability, cost-efficiency, and security in mind. Here’s how I integrate cloud services into my backend projects:
 
 AWS Lambda: Leveraging AWS Lambda for serverless backend services and event-driven architectures.
 Amazon RDS: Using Amazon Relational Database Service (RDS) for high availability and auto-scaling databases.
